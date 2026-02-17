@@ -5,7 +5,7 @@ title: Analog sensors
 
 # Analog sensors
 
-Analog sensors are used to read voltage from analog components.
+Analog ports are used to read voltage from analog sensors.
 
 #### Example:
 

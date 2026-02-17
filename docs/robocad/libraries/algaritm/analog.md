@@ -88,5 +88,5 @@ import TabItem from '@theme/TabItem';
 
 :::note
 Analog ports are used to connect analog sensors (for example: the [infrared distance sensor](infrared)).
-The shield has only 8 analog ports. Indexing starts at 1.
+The shield has 8 analog ports. Indexing starts at 1.
 :::

@@ -6,7 +6,7 @@ title: Python
 
 # Python
 
-These guides show you how to install **robocad-py** library.  
+This guide show you how to install **robocad-py** library.  
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

@@ -47,7 +47,7 @@ Get started [with SoftHub](softhub).
 
 ## shufflecad
 
-Learn how to use Shuffleboard and Driver Station combined into one app.
+Learn how to use Shuffleboard and Driver Station combined into a single app.
 
 :::info
 See the guides for [shufflecad](shufflecad).
